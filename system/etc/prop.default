@@ -1,0 +1,18 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Sep 6 01:10:47 CST 2018
+ro.bootimage.build.date.utc=1536167447
+ro.bootimage.build.fingerprint=xiaomi/sakura/sakura:8.1.0/OPM1.171019.019/8.9.6:user/release-keys
+persist.sys.usb.config=mtp
+
